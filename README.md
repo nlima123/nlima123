@@ -1,6 +1,6 @@
 ## Hi, I'm Nicoly!
 
-Studying Computer Science at the University of Massachusetts-Boston
+I studied Computer Science at the University of Massachusetts-Boston
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nicoly-lima-a86896195/) 
